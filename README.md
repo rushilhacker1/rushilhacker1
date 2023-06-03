@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rushilhacker1
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... kotlin,xml
+- 🌱 I’m currently learning ... Operating System Development
 - 💞️ I’m looking to collaborate on ... coding
-- 📫 How to reach me ...
+- 📫 How to reach me ... rushiling121@gmail.com or hotmail.com
 
 <!---
 rushilhacker1/rushilhacker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
